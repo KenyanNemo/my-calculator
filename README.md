@@ -1,3 +1,5 @@
+#Calculator web-app using react uth calculation based on state
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
