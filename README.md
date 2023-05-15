@@ -1,4 +1,4 @@
-#Calculator web-app using react uth calculation based on state
+# Calculator web-app using react uth calculation based on state
 
 # Getting Started with Create React App
 
